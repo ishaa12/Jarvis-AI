@@ -46,8 +46,8 @@ def takecommand():
 
 if __name__ == '__main__':
     wishme()
-    while true:
-    #if 1:
+    #while true:
+    if 1:
         query = takecommand().lower()
 
 
